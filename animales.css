@@ -1,0 +1,36 @@
+.fotos{
+    width: 500px;
+    height: 330px;
+    margin-left: 50px;
+}
+.fondo{
+    background-color: chartreuse;
+    background-image: url("paisajeFondo.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.botones{
+    font-size: 15px;
+    font-family: fantasy;
+    margin-right: 1200px;
+}
+.titulo{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.contenedor{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    border-radius: 20px;
+    background-color: burlywood;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 110px;
+}
